@@ -70,6 +70,12 @@
       "time": "06:10AM",
       "days": 30,
       "server": "ind"
+    },
+    {
+      "uid": "12500827375",
+      "time": "06:05AM",
+      "days": 30,
+      "server": "pk"
     }
   ],
   "history": [
