@@ -1324,6 +1324,12 @@
       "time": "04:31PM",
       "days": 1,
       "server": "ind"
+    },
+    {
+      "uid": "2165598058",
+      "time": "06:00AM",
+      "days": 30,
+      "server": "ind"
     }
   ],
   "history": [
