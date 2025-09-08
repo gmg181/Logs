@@ -2,6 +2,16 @@
   "admin_id": 7943593819,
   "jobs": [
     {
+      "uid": "3763101370",
+      "time": "3:54pm",
+      "days": 30
+    },
+    {
+      "uid": "1122726938",
+      "time": "4:22pm",
+      "days": 11
+    },
+    {
       "uid": "2801797747",
       "time": "4:23pm",
       "days": 11
@@ -12,28 +22,22 @@
       "days": 1
     },
     {
-      "uid": "2165598058",
-      "time": "6:00am",
+      "uid": "1122726938",
+      "time": "4:54pm",
       "days": 30,
+      "server": "sg"
+    },
+    {
+      "uid": "1784179577",
+      "time": "8:34pm",
+      "days": 1,
       "server": "ind"
     },
     {
-      "uid": "2658831736",
-      "time": "6:05am",
+      "uid": "1122726938",
+      "time": "5:55am",
       "days": 30,
-      "server": "ind"
-    },
-    {
-      "uid": "1676719907",
-      "time": "6:10am",
-      "days": 30,
-      "server": "ind"
-    },
-    {
-      "uid": "12500827375",
-      "time": "6:05am",
-      "days": 30,
-      "server": "pk"
+      "server": "bd"
     }
   ],
   "history": [
@@ -99,6 +103,17 @@
       "likes_given": 99,
       "likes_before": 7853,
       "likes_after": 7952
+    },
+    {
+      "time": "05:55:00",
+      "date": "2025-09-08",
+      "uid": "1122726938",
+      "region": "BD",
+      "status": "None",
+      "player_name": "Unknown",
+      "likes_given": 0,
+      "likes_before": 0,
+      "likes_after": 0
     }
   ]
 }
