@@ -32,6 +32,30 @@
       "time": "8:34pm",
       "days": 1,
       "server": "ind"
+    },
+    {
+      "uid": "2658831736",
+      "time": "6:05am",
+      "days": 30,
+      "server": "ind"
+    },
+    {
+      "uid": "1676719907",
+      "time": "6:10am",
+      "days": 30,
+      "server": "ind"
+    },
+    {
+      "uid": "12500827375",
+      "time": "6:05am",
+      "days": 30,
+      "server": "pk"
+    },
+    {
+      "uid": "2801797747",
+      "time": "1:52pm",
+      "days": 1,
+      "server": "ind"
     }
   ],
   "history": [
@@ -97,6 +121,50 @@
       "likes_given": 99,
       "likes_before": 7853,
       "likes_after": 7952
+    },
+    {
+      "time": "06:05:00",
+      "date": "2025-09-08",
+      "uid": "12500827375",
+      "region": "PK",
+      "status": "None",
+      "player_name": "Unknown",
+      "likes_given": 0,
+      "likes_before": 0,
+      "likes_after": 0
+    },
+    {
+      "time": "06:05:00",
+      "date": "2025-09-08",
+      "uid": "2658831736",
+      "region": "IND",
+      "status": "None",
+      "player_name": "Unknown",
+      "likes_given": 0,
+      "likes_before": 0,
+      "likes_after": 0
+    },
+    {
+      "time": "06:10:00",
+      "date": "2025-09-08",
+      "uid": "1676719907",
+      "region": "IND",
+      "status": "None",
+      "player_name": "Unknown",
+      "likes_given": 0,
+      "likes_before": 0,
+      "likes_after": 0
+    },
+    {
+      "time": "13:52:00",
+      "date": "2025-09-08",
+      "uid": "2801797747",
+      "region": "IND",
+      "status": "Success",
+      "player_name": "ʏȶ፝֟፝֟ǤᗰǤƊєv",
+      "likes_given": 85,
+      "likes_before": 23484,
+      "likes_after": 23569
     },
     {
       "time": "15:54:00",
