@@ -2,16 +2,6 @@
   "admin_id": 7943593819,
   "jobs": [
     {
-      "uid": "3763101370",
-      "time": "3:54pm",
-      "days": 30
-    },
-    {
-      "uid": "1122726938",
-      "time": "4:22pm",
-      "days": 11
-    },
-    {
       "uid": "2801797747",
       "time": "4:23pm",
       "days": 11
@@ -22,22 +12,34 @@
       "days": 1
     },
     {
-      "uid": "1122726938",
-      "time": "4:54pm",
+      "uid": "2165598058",
+      "time": "6:00am",
       "days": 30,
-      "server": "sg"
-    },
-    {
-      "uid": "1784179577",
-      "time": "8:34pm",
-      "days": 1,
       "server": "ind"
     },
     {
-      "uid": "1122726938",
-      "time": "5:55am",
+      "uid": "2658831736",
+      "time": "6:05am",
       "days": 30,
-      "server": "bd"
+      "server": "ind"
+    },
+    {
+      "uid": "1676719907",
+      "time": "6:10am",
+      "days": 30,
+      "server": "ind"
+    },
+    {
+      "uid": "12500827375",
+      "time": "6:05am",
+      "days": 30,
+      "server": "pk"
+    },
+    {
+      "uid": "2658831736",
+      "time": "9:41am",
+      "days": 1,
+      "server": "ind"
     }
   ],
   "history": [
@@ -105,10 +107,10 @@
       "likes_after": 7952
     },
     {
-      "time": "05:55:00",
+      "time": "06:00:00",
       "date": "2025-09-08",
-      "uid": "1122726938",
-      "region": "BD",
+      "uid": "2165598058",
+      "region": "IND",
       "status": "None",
       "player_name": "Unknown",
       "likes_given": 0,
@@ -116,26 +118,48 @@
       "likes_after": 0
     },
     {
-      "time": "15:54:00",
+      "time": "06:05:00",
       "date": "2025-09-08",
-      "uid": "3763101370",
+      "uid": "2658831736",
+      "region": "IND",
+      "status": "None",
+      "player_name": "Unknown",
+      "likes_given": 0,
+      "likes_before": 0,
+      "likes_after": 0
+    },
+    {
+      "time": "06:05:00",
+      "date": "2025-09-08",
+      "uid": "12500827375",
+      "region": "PK",
+      "status": "None",
+      "player_name": "Unknown",
+      "likes_given": 0,
+      "likes_before": 0,
+      "likes_after": 0
+    },
+    {
+      "time": "06:10:00",
+      "date": "2025-09-08",
+      "uid": "1676719907",
+      "region": "IND",
+      "status": "None",
+      "player_name": "Unknown",
+      "likes_given": 0,
+      "likes_before": 0,
+      "likes_after": 0
+    },
+    {
+      "time": "09:41:00",
+      "date": "2025-09-08",
+      "uid": "2658831736",
       "region": "IND",
       "status": "Success",
-      "player_name": "ᏚƝᏟᅠXᎽᎡO",
-      "likes_given": 100,
-      "likes_before": 6223,
-      "likes_after": 6323
-    },
-    {
-      "time": "16:22:00",
-      "date": "2025-09-08",
-      "uid": "1122726938",
-      "region": "IND",
-      "status": "None",
-      "player_name": "Unknown",
-      "likes_given": 0,
-      "likes_before": 0,
-      "likes_after": 0
+      "player_name": "DevAqsa0643P",
+      "likes_given": 89,
+      "likes_before": 7154,
+      "likes_after": 7243
     },
     {
       "time": "16:23:00",
