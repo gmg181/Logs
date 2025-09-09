@@ -34,28 +34,10 @@
       "server": "ind"
     },
     {
-      "uid": "1676719907",
-      "time": "6:10am",
+      "uid": "1122726938",
+      "time": "5:55am",
       "days": 30,
-      "server": "ind"
-    },
-    {
-      "uid": "1676719907",
-      "time": "6:10am",
-      "days": 30,
-      "server": "ind"
-    },
-    {
-      "uid": "1676719907",
-      "time": "6:10am",
-      "days": 30,
-      "server": "ind"
-    },
-    {
-      "uid": "2165598058",
-      "time": "6:00am",
-      "days": 30,
-      "server": "ind"
+      "server": "bd"
     }
   ],
   "history": [
@@ -121,6 +103,17 @@
       "likes_given": 99,
       "likes_before": 7853,
       "likes_after": 7952
+    },
+    {
+      "time": "05:55:00",
+      "date": "2025-09-08",
+      "uid": "1122726938",
+      "region": "BD",
+      "status": "None",
+      "player_name": "Unknown",
+      "likes_given": 0,
+      "likes_before": 0,
+      "likes_after": 0
     },
     {
       "time": "15:54:00",
@@ -189,26 +182,15 @@
       "likes_after": 8056
     },
     {
-      "time": "06:00:00",
+      "time": "05:55:00",
       "date": "2025-09-09",
-      "uid": "2165598058",
-      "region": "IND",
-      "status": "Success",
-      "player_name": "DemonSubduer",
-      "likes_given": 100,
-      "likes_before": 20567,
-      "likes_after": 20667
-    },
-    {
-      "time": "06:10:00",
-      "date": "2025-09-09",
-      "uid": "1676719907",
-      "region": "IND",
-      "status": "Success",
-      "player_name": "xSahilZ",
-      "likes_given": 100,
-      "likes_before": 10915,
-      "likes_after": 11015
+      "uid": "1122726938",
+      "region": "BD",
+      "status": "None",
+      "player_name": "Unknown",
+      "likes_given": 0,
+      "likes_before": 0,
+      "likes_after": 0
     },
     {
       "time": "15:54:00",
